@@ -3,12 +3,15 @@ check there code
 {
 	a=20
 	b=40
-	c=50
-	d=60
+	a=d=40;
+	d=c=6=;
+	c=50-a
+	d=40
 
 
 
 }	
+
 	
 
 
